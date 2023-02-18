@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ All of my projects are found at https://github.com/AhmedFahmi0<br>📚 I'm currently learning Open Source Technologies<br>🎯 Goals: To have a position in a dynamic organization where I can utilize my skills and knowledge to make a meaningful contribution.<br>📫 How to reach me: amfahmi.96@gmail.com
+<p align="left">✨ All of my projects are found at https://github.com/AhmedFahmi0<br>📚 I'm currently learning Open Source Technologies<br>🎯 Goals: Learn,grow,excel and make meaningful contributions.<br>📫 How to reach me: amfahmi.96@gmail.com
 
 ###
 
